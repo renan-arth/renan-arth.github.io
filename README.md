@@ -1,14 +1,10 @@
-# Portifólio
-Portifólio destinado a apresentar todos os projetos a mim referidos.
-
-**renan-arth/renanarthur.github.io** é um repositório ✨ _special_ ✨
+# _Portifólio_
+_✨Portifólio destinado a apresentar todos os projetos a mim referidos._
 
 - 🔭 Estou atualmente trabalhando como Desenvolvedor Back-End | C# .NET
 - 🌱 Estou atualmente estudando sobre React Js
 - 🤔 Procuro ajuda para descobrir novas ferramentas para Back-End e Front-End
-- 📫 Contato/Email: +55 (85) 9 9626-2316 || renanarthur2002@gmail.com
-
-
+- 📫 Contatos:
     <div>
         <a href="https://instagram.com/renanarthur2002" target="_blank"><img
                 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
